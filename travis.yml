@@ -1,6 +1,3 @@
-branches:
-  only:
-    - sensei
 language: node_js
 node_js:
   - "stable"
