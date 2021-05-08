@@ -10,7 +10,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: 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
+  github_token: $github_token
   local_dir: build
   on:
     branch: sensei
