@@ -1,0 +1,19 @@
+{
+  "name": "nouveau-repo-integration-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthieunoel/NouveauRepoIntegrationTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthieunoel/NouveauRepoIntegrationTest/issues"
+  },
+  "homepage": "https://github.com/matthieunoel/NouveauRepoIntegrationTest#readme"
+}
